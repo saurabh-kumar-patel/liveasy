@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635784932735",
+    "project_id": "live-34acb",
+    "storage_bucket": "live-34acb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635784932735:android:f71177e3517223964dfe4a",
+        "android_client_info": {
+          "package_name": "com.example.live"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcOSn-Jo2x6sPXY_WzYmcnc_gmIGPvTh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
